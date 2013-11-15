@@ -5,7 +5,7 @@ Plugin URI: http://tealium.com
 Description: Adds the Tealium tag and creates a data object from post data.
 Version: 1.0
 Author: Ian Hampton
-Author URI: http://ianhampton.net
+Author URI: http://tealium.com
 */
 
 function activate_tealium() {
