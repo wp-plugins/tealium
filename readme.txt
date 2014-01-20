@@ -12,10 +12,9 @@ Adds the Tealium tag and creates a data object from post data.
 
 == Description ==
 
-Allows users to easily add the Tealium tag without editing any template files. 
-
 = Features =
 
+Allows users to easily add the Tealium tag without editing any template files. 
 
 A data object is created containing:
 
