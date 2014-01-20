@@ -52,10 +52,16 @@ To install:
 
 == Changelog ==
 
+= 1.1 =
+* Migrate from capabilities to roles.
+
 = 1.0 =
 * Initial release.
 
 == Upgrade Notice ==
+
+= 1.1 =
+* Migrate from capabilities to roles.
 
 = 1.0 =
 Initial release.
