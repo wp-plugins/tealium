@@ -58,7 +58,12 @@ To install:
 
 == Screenshots ==
 
-1. Tag settings.
+1. The Tealium plugin allows your Tealium tag to be added straight to your site from your Wordpress dashboard.
+2. A data layer is added to your site containing basic post or page data.
+3. The plugin also takes categories and tags...
+4. ...and rolls them into the data layer.
+5. Custom fields and other meta data is also supported.
+6. Many existing Wordpress plugins make use of meta data, so your data layer should be rich with potential data sources.
 
 == Changelog ==
 
