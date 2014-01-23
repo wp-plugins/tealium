@@ -16,7 +16,7 @@ Adds the Tealium tag and creates a data object from post data.
 
 Allows users to easily add the Tealium tag without editing any template files. 
 
-A data object is created containing:
+A data layer is added to your Wordpress website containing:
 
 * Site name
 * Site description
