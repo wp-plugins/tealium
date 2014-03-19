@@ -124,12 +124,7 @@ For more information see the [action examples on GitHub](https://github.com/ianh
 == Upgrade Notice ==
 
 = 1.5 =
-Upgrade to add search result count to data layer.
-Hooks to allow the data object and Tealium tag to be modified by theme/plugin developers.
-New tag location setting (after opening head tag).
-Camel Case and underscore data layer style options.
-
-** Important ** - If you wish to continue using the Camel Case data style please check that your configuration option corresponds to this choice.
+Upgrade to add search result count to data layer. Hooks to allow the data object and Tealium tag to be modified by theme/plugin developers. New tag location setting (after opening head tag). Camel Case and underscore data layer style options.
 
 = 1.4 =
 Exclusions bug fix, upgrade advised.
