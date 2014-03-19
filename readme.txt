@@ -4,7 +4,7 @@ Tags: analytics, tealium, data object, data layer
 Donate link: http://tealium.com
 Requires at least: 3.0.1
 Tested up to: 3.8.1
-Stable tag: 1.5
+Stable tag: 1.5.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -97,6 +97,9 @@ For more information see the [action examples on GitHub](https://github.com/ianh
 
 == Changelog ==
 
+= 1.5.1 =
+* Fixed opening head tag bug.
+
 = 1.5 =
 * Added search result count to data object.
 * Added actions to allow the data object and Tealium tag to be modified by theme/plugin developers.
@@ -123,8 +126,19 @@ For more information see the [action examples on GitHub](https://github.com/ianh
 
 == Upgrade Notice ==
 
+= 1.5.1 =
+Upgrade to add search result count to data layer.
+Hooks to allow the data object and Tealium tag to be modified by theme/plugin developers.
+New tag location setting (after opening head tag).
+Camel Case and underscore data layer style options.
+
 = 1.5 =
-Upgrade to add search result count to data layer. Hooks to allow the data object and Tealium tag to be modified by theme/plugin developers. New tag location setting (after opening head tag). Camel Case and underscore data layer style options.
+Upgrade to add search result count to data layer.
+Hooks to allow the data object and Tealium tag to be modified by theme/plugin developers.
+New tag location setting (after opening head tag).
+Camel Case and underscore data layer style options.
+
+** Important ** - If you wish to continue using the Camel Case data style please check that your configuration option corresponds to this choice.
 
 = 1.4 =
 Exclusions bug fix, upgrade advised.
